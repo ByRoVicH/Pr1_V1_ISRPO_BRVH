@@ -1,0 +1,14 @@
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.exe
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.deps.json
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.runtimeconfig.json
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.dll
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\bin\Debug\net8.0\MatrixTranspose.pdb
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.AssemblyInfoInputs.cache
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.AssemblyInfo.cs
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.csproj.CoreCompileInputs.cache
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.dll
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\refint\MatrixTranspose.dll
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.pdb
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\MatrixTranspose.genruntimeconfig.cache
+C:\Users\исп-44\Desktop\MatrixTranspose\MatrixTranspose\obj\Debug\net8.0\ref\MatrixTranspose.dll
